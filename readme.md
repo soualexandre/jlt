@@ -2,7 +2,7 @@
 
 Sistema desenvolvido para a empresa em que eu trabalho
 
-## Requirements
+## Requer
 
 - Laravel 7.0
 - PHP >= 7.2.5
@@ -15,7 +15,7 @@ Sistema desenvolvido para a empresa em que eu trabalho
 - JSON PHP Extension
 - BCMath PHP Extension
 
-## Installation
+## Instalação
 
 ```
 git clone https://github.com/soualexandre/Laudos-T-cnicos.git 
@@ -28,7 +28,7 @@ php artisan db:seed
 ```
 
 
-## Author
+## Autor
 
 - [Alexandre Souza dos Santos](https://github.com/soualexandre)
 
