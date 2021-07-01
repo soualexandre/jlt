@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="jlt" src="./jlt.gif" width="80%">
+  <img alt="jlt" src="./jlr.gif" width="80%">
 </p>
 
 # Sistema de laudos técnicos
