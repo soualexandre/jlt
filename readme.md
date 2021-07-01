@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="jlt" src="./github/bg-project.png" width="80%">
+</p>
+
 # Sistema de laudos técnicos
 
 Sistema desenvolvido para a empresa em que eu trabalho
